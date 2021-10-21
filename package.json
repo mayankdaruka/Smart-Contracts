@@ -1,0 +1,14 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "description": "Creating a smart contract with Solidity",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
